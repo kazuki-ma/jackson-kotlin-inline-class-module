@@ -1,0 +1,1 @@
+# jackson-kotlin-inline-support

@@ -1,8 +1,3 @@
-# jackson-kotlin-inline-class-module
-
-Module for kotlin's inline class deserialize.
-
-```kotlin
 package la.serendipity.jackson_kotlin_inline_class_module
 
 import com.fasterxml.jackson.annotation.JsonValue
@@ -49,4 +44,3 @@ internal class KotlinInlineClassModuleTest {
         log.info { listValue }
     }
 }
-```
